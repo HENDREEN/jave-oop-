@@ -7,6 +7,9 @@ import android.util.Log;
  */
 
 public class Manager extends employee {
+    
+    //I can't tell the difference between the parent and the child logically 
+    
     public void countSalary(){
         Log.i("employee", "countSalary:  555555555555555555 ");
     }
